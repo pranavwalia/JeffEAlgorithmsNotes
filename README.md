@@ -1,2 +1,2 @@
-# JeffEAlgorithmsNotes
- Notes and selected solutions to questions from Algorithms By Jeff Ericksonn
+# Notes and Exercises on the textbook "Algorithms" by Jeff Erickson
+
