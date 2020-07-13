@@ -8,6 +8,8 @@ from the book as possible and post implemented solutions and proofs in IPython.
   - The book is extensive containing questions with absurd levels of difficulty
   - Some of the proofs in the book are still open questions and unsolved. 
   
+  
+  
 ![Image of Book](http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)
 
 
