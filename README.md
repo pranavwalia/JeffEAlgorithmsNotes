@@ -1,5 +1,5 @@
 # Notes and Exercises for "Algorithms" by Jeff Erickson
-![Image of Book](!http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)
+![Image of Book](http://jeffe.cs.illinois.edu/teaching/algorithms/FrontCover.png)
 Since the [original textbook](http://www.algorithms.wtf) does not have a solution manual or answer key, I have taken it upon myself to try to solve as many questions
 from the book as possible and post implemented solutions and proofs in IPython.
 
